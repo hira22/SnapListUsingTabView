@@ -14,7 +14,6 @@ struct ContentView: View {
         [.green, .yellow, .black, .blue, .red],
         [.yellow, .black, .blue, .red, .green],
         [.black, .blue, .red, .green, .yellow],
-        [.blue, .red, .green, .yellow, .black]
     ]
 
     var body: some View {
